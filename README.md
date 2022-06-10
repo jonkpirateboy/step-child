@@ -4,7 +4,7 @@
 
 TL;DR: WordPress plugin working (almost) like a child theme.
 
-Sometimes the project you thrown into doesn't have a child theme, or the customer doesn't want a child theme, or it is just not possbible for one reason or another. But you still want to add css, javascript, hooks, filters, ACF json, and so on. This happened to me so I made Step child. 
+Sometimes the project you thrown into doesn't have a child theme, or the customer doesn't want a child theme, or it is just not possbible for one reason or another. But you still want to add css, javascript, hooks, filters, ACF json, and so on. This happened to me, so I made Step child. 
 
 This is used on [babaà](https://babaa.es/).
 
